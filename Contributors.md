@@ -757,4 +757,5 @@
 - [Nguyen Dang Quy](https://github.com/dangquyit)
 - [Zac Nation](https://github.com/zacnation)
 - [Salwa Mansour](https://github.com/Salwa-mansour)
+- [Rishika Vishnoi](https://github.com/Rishikavishnoi)
 <!-- prettier-ignore-end -->
